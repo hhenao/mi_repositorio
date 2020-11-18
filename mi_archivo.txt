@@ -2,3 +2,15 @@
 git init
 //para agregar cambios
 git add nombre_archivo.extension o . para todos
+//para confirmar cambios
+git commit -m comentarios
+//Indicar la url del repositorio donde se subiran los archivos
+git remote add origin url_del_repositorio_github
+//Subir repositorio al master
+git push -u origin master
+//crear rama en el repositorio
+git branch nombre_rama
+//subir rama al repositorio
+git push -u origin nombre_rama
+//ubicarse en la rama
+git checkout nombre_rama
