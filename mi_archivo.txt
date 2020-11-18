@@ -1,0 +1,4 @@
+//para inicializar un repositorio
+git init
+//para agregar cambios
+git add nombre_archivo.extension o . para todos
