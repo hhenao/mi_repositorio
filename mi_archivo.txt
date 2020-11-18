@@ -15,4 +15,5 @@ git push -u origin nombre_rama
 //ubicarse en la rama
 git checkout nombre_rama
 
+
 FIN DEL EJERCICIO
